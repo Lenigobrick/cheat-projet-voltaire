@@ -38,7 +38,7 @@ Merci d'utiliser notre cheat pour Projet Voltaire ! Bonne chance et amusez-vous 
 ---
 
 > [!CAUTION]
-> > **Note** :
+> **Note** :
 > L'utilisation de ce cheat est à vos risques et périls. Nous ne sommes pas responsables des conséquences de l'utilisation de ces outils sur votre compte Projet Voltaire.
 
 > [!WARNING]
